@@ -1,0 +1,11 @@
+Model Information:
+* title:	jesus-pixel
+* source:	https://sketchfab.com/3d-models/jesus-pixel-98e82a3bf1b74de7b5dc4ddb3e64b18f
+* author:	madexc (https://sketchfab.com/madexc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "jesus-pixel" (https://sketchfab.com/3d-models/jesus-pixel-98e82a3bf1b74de7b5dc4ddb3e64b18f) by madexc (https://sketchfab.com/madexc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
